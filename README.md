@@ -23,7 +23,7 @@ To want to learn how to write Linux driver, this will be a reference
          Usage: to launch GUI APP.
          ./raspi_led_GUI/python3  pyqt.py
 
---(GPIO BCM Pin number)----the Table source is from WiringPi project
+#--(GPIO BCM Pin number)----the Table source is from WiringPi project
  +-----+-----+---------+------+---+---Pi 3+--+---+------+---------+-----+-----+
  | BCM | wPi |   Name  | Mode | V | Physical | V | Mode | Name    | wPi | BCM |
  +-----+-----+---------+------+---+----++----+---+------+---------+-----+-----+
